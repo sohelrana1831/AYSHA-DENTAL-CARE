@@ -22,3 +22,5 @@ Using latest technologies React, Tailwind css, Firebase authentication system, f
 - Get in touch contact form
 - See the Upcoming Events.
 - Use Google Map.
+# Screenshot
+![Screenshot](https://github.com/sohelrana1831/AYSHA-DENTAL-CARE/blob/master/screenshot.jpeg?raw=true)
